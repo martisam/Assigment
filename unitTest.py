@@ -21,4 +21,4 @@ class testStringMethods(unittest.TestCase):
 			s.split(2)
 
 	if __name__ == '__main__':
-		main()
+		unittest.main()
